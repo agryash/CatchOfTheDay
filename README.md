@@ -1,8 +1,11 @@
 # Catch of the Day!
 
-Hi there, and welcome to the _Catch of the Day_ repository! The code you'll find in here powers a single-page application developed by yours truly, in my attempt to better understand the fundamentals of **React.js**! The finished product can be found over at [catch-of-the-day.leander.xyz](https://catch-of-the-day.leander.xyz)!
+Hi there, and welcome to the _Catch of the Day_ repository! The code you'll find in here powers a single-page application developed by yours truly, in my attempt to better understand the fundamentals of **React.js**! The finished product can be found over at [agryash.github.io/CatchOfTheDay](agryash.github.io/CatchOfTheDay)!
 
 ## Using the app
+
+![Alt Text](https://okzio.b-cdn.net/wp-content/uploads/2019/02/2019-02-27-11.28.54.gif)
+
 
 The way the app works, you can generate a 'store' by using the landing page's store picker component. A random title will be suggested for you if you need.
 
