@@ -1,6 +1,6 @@
 # Catch of the Day!
 
-Hi there, and welcome to the _Catch of the Day_ repository! The code you'll find in here powers a single-page application developed by yours truly, in my attempt to better understand the fundamentals of **React.js**! The finished product can be found over at [agryash.github.io/CatchOfTheDay](agryash.github.io/CatchOfTheDay)!
+Hi there, and welcome to the _Catch of the Day_ repository! The code you'll find in here powers a single-page application developed by yours truly, in my attempt to better understand the fundamentals of **React.js**! The finished product can be found over at [agryash.github.io/CatchOfTheDay](https://agryash.github.io/CatchOfTheDay/)!
 
 ## Using the app
 
